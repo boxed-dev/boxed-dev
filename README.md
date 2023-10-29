@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on *******<br>👯 I’m looking to collaborate on Agents , AI Tools<br>🌱 I’m currently learning about VoiceCloning
+🔭 I’m currently working on *******<br>👯 I’m looking to collaborate on Agents , AI Tools , ChatBots and LLMs<br>🌱 I’m currently learning about VoiceCloning
 
 
 # 💻 Tech Stack:
