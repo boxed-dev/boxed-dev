@@ -6,7 +6,7 @@
     <b>AI Engineering</b> • <b>MCP Protocols</b> • <b>Python Tooling</b>
   </p>
 
-  <p>Building the infrastructure for intelligent context.</p>
+  <p>Building the infrastructure for intelligence</p>
 
   <br />
 
