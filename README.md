@@ -10,11 +10,11 @@
 
   <br />
 
-  <code>Python</code> &nbsp; 
-  <code>Docker</code> &nbsp; 
-  <code>LangChain</code> &nbsp; 
-  <code>FastAPI</code>
-
+    <code>TypeScript</code> &nbsp;
+    <code>Next.js</code> &nbsp;
+        <code>Python</code> &nbsp;
+    <code>LangChain</code> &nbsp;
+        <code>Vector DBs</code>
   <br /><br />
 
   <a href="https://github.com/boxed-dev">
