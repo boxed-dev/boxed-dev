@@ -1,4 +1,3 @@
-<div align="center">
 
     <h3>boxed-dev</h3>
 
@@ -21,4 +20,4 @@
     <a href="https://github.com/boxed-dev">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=boxed-dev&theme=transparent&hide_border=true&card_width=500&fire=E6E6E6&ring=E6E6E6&currStreakNum=FFFFFF&currStreakLabel=888888&sideLabels=888888&sideNums=FFFFFF&dates=888888" alt="boxed-dev streak" />
     </a>
-</div>
+
