@@ -2,7 +2,7 @@
 
 AI Engineer building production systems that ship.
 
-Currently at **Connectivity CX** — autonomous agents, voice AI, and RAG pipelines that handle real customer workflows at scale.
+Building autonomous agents, voice AI, and RAG pipelines that handle real customer workflows at scale.
 
 ---
 
