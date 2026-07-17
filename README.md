@@ -17,7 +17,7 @@ rishabh@prod:~$ whoami
 rishabh@prod:~$ cat ./impact.log
 [OK] milo email VA .............. in production · multi-tenant RAG · P50<500ms
 [OK] hotelzify voice ............ 5 agents · 1M+ embeddings · 98% retrieval
-[OK] remalt.com ................. solo build ──▶ 200+ users · AppSumo launch
+[OK] remalt.com ................. solo build ──▶ 10k+ users · AppSumo launch
 [OK] marki recsys ............... 1M+ preds/day @ 45ms · +28% engagement
 [OK] cognidb .................... ⭐200+ · NL──▶SQL · inference cost −40%
 [OK] oneticket .................. top 5 / 800+ · Smart India Hackathon
@@ -68,7 +68,7 @@ rishabh@prod:~$ █
 </details>
 
 <details>
-<summary>&nbsp;🟢&nbsp;<b>remalt.com</b> — the one where I'm the founder &nbsp;<code>200+ users</code></summary>
+<summary>&nbsp;🟢&nbsp;<b>remalt.com</b> — the one where I'm the founder &nbsp;<code>10k+ users</code></summary>
 <br/>
 
 > **ACK**
@@ -76,7 +76,7 @@ rishabh@prod:~$ █
 > Visual AI workflow builder — solo-designed, solo-built, solo-shipped: [remalt.com](https://remalt.com)
 > - 🎨 Infinite drag-and-drop canvas, **13 node types** (PDF, voice, YouTube, image, mindmap…)
 > - 🔀 Multi-LLM routing across 9+ models · Chrome capture extension · coin-based billing
-> - 🚀 Launched on **AppSumo** — 200+ active users and climbing
+> - 🚀 Launched on **AppSumo** — 10,000+ active users and climbing
 > - 🛠️ Next.js 15 · Mastra · Supabase (RLS everywhere) · xyflow
 
 </details>

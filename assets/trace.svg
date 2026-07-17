@@ -42,7 +42,7 @@
     </circle>
 
     <rect x="760" y="150" width="400" height="20" rx="4" fill="#bf4b8a"/>
-    <text x="768" y="164" fill="#e6edf3">Remalt · founder — solo build → 200+ users</text>
+    <text x="768" y="164" fill="#e6edf3">Remalt · founder — solo build → 10k+ users</text>
     <circle cx="1146" cy="160" r="4" fill="#f778ba" filter="url(#tglow)">
       <animate attributeName="opacity" values="1;0.4;1" dur="2s" begin="0.7s" repeatCount="indefinite"/>
     </circle>
