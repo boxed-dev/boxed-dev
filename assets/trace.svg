@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Career as a distributed trace — VIT to founder">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#010409"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <filter id="tglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="190" fill="url(#tbg)"/>
+
+  <text x="40" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#7d8590">TRACE <tspan fill="#3fb950">career.root</tspan> — spans arrive in order, none dropped</text>
+
+  <!-- ruler -->
+  <g stroke="#21262d" stroke-width="1">
+    <line x1="40" y1="48" x2="1160" y2="48"/>
+    <line x1="40" y1="44" x2="40" y2="52"/><line x1="320" y1="44" x2="320" y2="52"/><line x1="600" y1="44" x2="600" y2="52"/><line x1="880" y1="44" x2="880" y2="52"/><line x1="1160" y1="44" x2="1160" y2="52"/>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#484f58">
+    <text x="40" y="66">2022</text><text x="320" y="66">2024</text><text x="600" y="66">2025</text><text x="880" y="66">2026</text><text x="1130" y="66">now</text>
+  </g>
+
+  <!-- spans -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">
+    <rect x="40" y="78" width="360" height="20" rx="4" fill="#1f6feb" opacity="0.85"/>
+    <text x="48" y="92" fill="#e6edf3">VIT · B.Tech ECE</text>
+    <text x="408" y="92" fill="#484f58">grad 2026</text>
+
+    <rect x="300" y="102" width="170" height="20" rx="4" fill="#8957e5" opacity="0.85"/>
+    <text x="308" y="116" fill="#e6edf3">Marki · recsys 1M+/day</text>
+
+    <rect x="440" y="126" width="200" height="20" rx="4" fill="#db6d28" opacity="0.9"/>
+    <text x="448" y="140" fill="#e6edf3">Hotelzify · voice, 5 agents</text>
+
+    <rect x="620" y="102" width="540" height="20" rx="4" fill="#238636"/>
+    <text x="628" y="116" fill="#e6edf3">Connectivity CX · Milo email VA — in production</text>
+    <circle cx="1146" cy="112" r="4" fill="#3fb950" filter="url(#tglow)">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="760" y="150" width="400" height="20" rx="4" fill="#bf4b8a"/>
+    <text x="768" y="164" fill="#e6edf3">Remalt · founder — solo build → 200+ users</text>
+    <circle cx="1146" cy="160" r="4" fill="#f778ba" filter="url(#tglow)">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" begin="0.7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

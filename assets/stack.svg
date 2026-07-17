@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Stack — the dashboard row">
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#010409"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="150" fill="url(#sbg)"/>
+
+  <text x="40" y="32" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#7d8590">DASHBOARD <tspan fill="#3fb950">stack.overview</tspan> — every panel green</text>
+
+  <!-- sparkline tiles -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">
+    <!-- tile template x6 -->
+    <g transform="translate(40,50)">
+      <rect width="172" height="76" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="12" y="22" fill="#e6edf3">python</text>
+      <polyline fill="none" stroke="#3fb950" stroke-width="2" points="12,58 34,50 56,54 78,42 100,46 122,36 144,40 160,30"/>
+    </g>
+    <g transform="translate(228,50)">
+      <rect width="172" height="76" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="12" y="22" fill="#e6edf3">typescript</text>
+      <polyline fill="none" stroke="#58a6ff" stroke-width="2" points="12,56 34,52 56,44 78,48 100,38 122,42 144,32 160,34"/>
+    </g>
+    <g transform="translate(416,50)">
+      <rect width="172" height="76" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="12" y="22" fill="#e6edf3">langgraph · mastra</text>
+      <polyline fill="none" stroke="#8957e5" stroke-width="2" points="12,60 34,54 56,56 78,44 100,48 122,38 144,34 160,28"/>
+    </g>
+    <g transform="translate(604,50)">
+      <rect width="172" height="76" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="12" y="22" fill="#e6edf3">fastapi · next.js</text>
+      <polyline fill="none" stroke="#db6d28" stroke-width="2" points="12,54 34,48 56,52 78,40 100,44 122,34 144,38 160,26"/>
+    </g>
+    <g transform="translate(792,50)">
+      <rect width="172" height="76" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="12" y="22" fill="#e6edf3">qdrant · supabase</text>
+      <polyline fill="none" stroke="#f778ba" stroke-width="2" points="12,58 34,52 56,46 78,50 100,40 122,44 144,32 160,30"/>
+    </g>
+    <g transform="translate(980,50)">
+      <rect width="180" height="76" rx="8" fill="#0d1117" stroke="#21262d"/>
+      <text x="12" y="22" fill="#e6edf3">evals · otel · redis</text>
+      <polyline fill="none" stroke="#d29922" stroke-width="2" points="12,56 36,50 60,54 84,42 108,46 132,34 156,38 168,28"/>
+    </g>
+  </g>
+</svg>
