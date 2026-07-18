@@ -2,29 +2,6 @@
 
 <img src="assets/header.svg" width="100%" alt="Control room — Rishabh Kumar"/>
 
-```console
-rishabh@prod:~$ whoami
-──────────────────────────────────────────────────────────────
-   ┌─[ OK ]─┐        rishabh kumar
-   │ ▓▓▓▓▓▓ │        ─────────────────────────────
-   │ ▓▓▓▓▓▓ │        Role      AI Engineer · independent practice (India)
-   │ ▓▓▓▓▓▓ │        Founder   Remalt — visual AI workflow builder
-   └────────┘        Shell     python, typescript
-  os: production     Packages  rag, voice-agents, multi-agent, evals
-  alerts: 0 missed   Motto     a green health check is not proof of life
-──────────────────────────────────────────────────────────────
-
-rishabh@prod:~$ cat ./impact.log
-[OK] milo email VA .............. in production · multi-tenant RAG · P50<500ms
-[OK] hotelzify voice ............ 5 agents · 1M+ embeddings · 98% retrieval
-[OK] remalt.com ................. solo build ──▶ 10k+ users
-[OK] marki recsys ............... 1M+ preds/day @ 45ms · +28% engagement
-[OK] cognidb .................... ⭐200+ · NL──▶SQL · inference cost −40%
-[OK] oneticket .................. top 5 / 800+ · Smart India Hackathon
-[OK] llm tracing ................ resurrected after 4 silent weeks · never again
-
-rishabh@prod:~$ █
-```
 
 <div align="center">
 
