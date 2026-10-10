@@ -1,7 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150" role="img" aria-label="Rishabh Kumar, AI engineer">
-  <rect width="800" height="150" fill="#ffffff"/>
-  <rect x="48" y="37" width="6" height="76" fill="#1a7f37"/>
-  <text x="76" y="85" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="52" font-weight="700" fill="#1f2328">Rishabh Kumar</text>
-  <text x="78" y="113" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="20" fill="#59636e">AI engineer · agents · RAG · voice</text>
-  <line x1="0" y1="149.5" x2="800" y2="149.5" stroke="#d1d9e0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="176" viewBox="0 0 720 176" role="img" aria-labelledby="title desc">
+  <title id="title">Rishabh · boxed-dev</title>
+  <desc id="desc">An open square, with its top-right corner offset. AI engineer working on agents, retrieval and voice.</desc>
+  <rect width="720" height="176" fill="#ffffff"/>
+  <g fill="none" stroke="#1f2328" stroke-width="3">
+    <path d="M81 46H34v84h84V83"/>
+  </g>
+  <path d="M99 31h34v34" fill="none" stroke="#bc4c2e" stroke-width="3"/>
+  <rect x="60" y="72" width="32" height="32" fill="#bc4c2e"/>
+  <text x="156" y="56" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" letter-spacing="1.5">BOXED-DEV</text>
+  <text x="152" y="115" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="650" letter-spacing="-3">Rishabh</text>
+  <text x="157" y="145" fill="#59636e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">agents / retrieval / voice</text>
+  <line x1="34" y1="175.5" x2="686" y2="175.5" stroke="#d1d9e0"/>
 </svg>
