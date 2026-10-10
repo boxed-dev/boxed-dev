@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200" role="img" aria-label="Rishabh Kumar, AI engineer">
+  <rect width="800" height="200" fill="#0d1117"/>
+  <rect x="48" y="62" width="6" height="76" fill="#3fb950"/>
+  <text x="76" y="110" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="52" font-weight="700" fill="#e6edf3">Rishabh Kumar</text>
+  <text x="78" y="138" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="20" fill="#7d8590">AI engineer · agents · RAG · voice</text>
+  <line x1="0" y1="199.5" x2="800" y2="199.5" stroke="#21262d"/>
+</svg>
