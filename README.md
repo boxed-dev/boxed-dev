@@ -7,11 +7,6 @@ I build agents, RAG pipelines and voice AI for production.
 
 [Website](https://rsbk.cc) · [LinkedIn](https://www.linkedin.com/in/its-rishabh/) · [X](https://x.com/rispectrum)
 
-### Selected work
-
-- **[CogniDB](https://github.com/boxed-dev/cognidb)** · Natural language to SQL, with guardrails.
-- **[Bezel](https://github.com/boxed-dev/bezel)** · Claude Code in your Mac’s notch.
-- **[Commit City](https://github.com/boxed-dev/commit-city)** · A city you can drive, built from your GitHub history.
 
 ### In the open
 
